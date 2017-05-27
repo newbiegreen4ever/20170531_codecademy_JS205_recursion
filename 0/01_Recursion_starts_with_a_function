@@ -1,0 +1,5 @@
+// Define function multiplyBy10()
+function multiplyBy10(n) {
+    m = n*10;
+    return m;
+    }
