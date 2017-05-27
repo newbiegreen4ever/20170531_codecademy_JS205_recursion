@@ -1,3 +1,4 @@
+//https://www.codecademy.com/en/courses/javascript-lesson-205/2/1
 function loopFactorial(n) {
   var result = n;
   while (n > 1) {
